@@ -1,202 +1,999 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTING TV HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89997?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTING TV HEVC
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85739?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTKLUB HD+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/63658?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTS #####
-http://rv.therevenge.co:80/565656/565656/82210?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTTV 1 HD
-http://51.222.82.89:22829/1212/1212/323708?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTTV NBA HD
-http://raostvip.com:8080/semi16/1609.sem/114075?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTV 3 HD
-http://51.222.82.89:22829/1212/1212/323710?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Sport + TV
-http://raostvip.com:8080/semi16/1609.sem/114039?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Sport Klub FHD
-http://raostvip.com:8080/semi16/1609.sem/113684?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Sport TV 1 HD 1080P
-http://51.222.82.89:22829/1212/1212/351374?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Sport TV 3 HD
-http://a1.gokakka.club:8880/testzyx030/123456789/3190?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Sport TV 5 HD
-http://a1.gokakka.club:8880/testzyx030/123456789/3188?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Sporting HD
-http://raostvip.com:8080/semi16/1609.sem/114074?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TELEKOM SPORT 1
-http://rv.therevenge.co:80/565656/565656/82194?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TELEKOM SPORT 2
-http://rv.therevenge.co:80/565656/565656/82193?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TELEKOM SPORT 3
-http://rv.therevenge.co:80/565656/565656/82192?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TELEKOM SPORT 4
-http://rv.therevenge.co:80/565656/565656/82191?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP SPORT HD
-http://rv.therevenge.co:80/565656/565656/80749?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP SPORT HD
-http://rv.therevenge.co:80/live/11223344/11223344/80749.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP Sport
-http://red.ipfox.org:8080/Karim2_534341/40036069/28006?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP Sport 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/21993?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP Sport FHD
-http://raostvip.com:8080/semi16/1609.sem/113751?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",nSport+
-http://red.ipfox.org:8080/Karim2_534341/40036069/28013?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",nSport+ 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/15616?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",nSport+ FHD
-http://raostvip.com:8080/semi16/1609.sem/113629?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS  3 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81775.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS  3 HD
-http://rv.therevenge.co:80/565656/565656/81775?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/29988.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.therevenge.co:80/565656/565656/81777?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.therevenge.co:80/live/242424/242424/81777.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.therevenge.co:80/live/242424/242424/81642.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.therevenge.co:80/565656/565656/81642?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81777.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81642.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85727.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/29987.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://rv.therevenge.co:80/live/242424/242424/81641.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81641.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://rv.therevenge.co:80/live/242424/242424/81776.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://rv.therevenge.co:80/565656/565656/81641?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://rv.therevenge.co:80/565656/565656/81776?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85728.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/29986.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
-http://rv.therevenge.co:80/live/242424/242424/81640.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
-http://rv.therevenge.co:80/565656/565656/81640?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81640.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85729.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://rv.therevenge.co:80/live/242424/242424/81639.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://rv.therevenge.co:80/565656/565656/81639?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://rv.therevenge.co:80/565656/565656/81774?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://rv.therevenge.co:80/live/242424/242424/81774.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/29985.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81639.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81774.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85730.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/29984.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HD
-http://rv.therevenge.co:80/live/242424/242424/81638.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HD
-http://rv.therevenge.co:80/live/242424/242424/81773.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HD
-http://rv.therevenge.co:80/565656/565656/81638?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81638.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HD
-http://rv.therevenge.co:80/565656/565656/81773?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81773.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85731.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.therevenge.co:80/565656/565656/81637?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.therevenge.co:80/live/242424/242424/81772.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/29983.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81637.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.therevenge.co:80/565656/565656/81772?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81772.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.therevenge.co:80/live/242424/242424/81637.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85732.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://rv.therevenge.co:80/live/242424/242424/81658.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://rv.therevenge.co:80/565656/565656/81658?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
-http://rv.therevenge.co:80/565656/565656/81659?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
-http://rv.therevenge.co:80/live/242424/242424/81659.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
-http://rv.therevenge.co:80/565656/565656/81783?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81659.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
-http://rv.therevenge.co:80/live/11223344/11223344/81783.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85733.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14097.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 2
-http://rv.therevenge.co:80/live/242424/242424/81657.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 2
-http://rv.therevenge.co:80/565656/565656/81657?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 2
-http://rv.therevenge.co:80/live/11223344/11223344/81657.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 2
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14094.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 2 HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85734.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",KOMBAT SPORT
-http://rv.therevenge.co:80/live/242424/242424/81662.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",KOMBAT SPORT
-http://rv.therevenge.co:80/565656/565656/81662?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",KOMBAT SPORT HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85738.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",KOMBATSPORT
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14090.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",NBA TV
-http://rv.therevenge.co:80/565656/565656/81643?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",NBA TV
-http://rv.therevenge.co:80/live/11223344/11223344/81643.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV
-http://rv.therevenge.co:80/565656/565656/81653?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV +
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79941.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14108.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + HD
-http://rv.therevenge.co:80/live/242424/242424/81782.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + HD
-http://rv.therevenge.co:80/565656/565656/81782?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + HD
-http://rv.therevenge.co:80/live/11223344/11223344/81782.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
-http://rv.therevenge.co:80/live/242424/242424/81650.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
-http://rv.therevenge.co:80/565656/565656/81650?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
-http://rv.therevenge.co:80/live/11223344/11223344/81650.m3u8?checkedby:iptvcat.com
+#EXTINF:0,PT| TVI
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30849
+#EXTINF:0,PT| SIC
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30848
+#EXTINF:0,PT| TV RECORD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30847
+#EXTINF:0,PT| SIC KIDS
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30846
+#EXTINF:0,PT| SPORT TV 1
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30845
+#EXTINF:0,PT| SPORT TV 2
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30844
+#EXTINF:0,PT| SPORT TV 3
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30843
+#EXTINF:0,PT| MOV HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30842
+#EXTINF:0,PT| BENFICA TV 1 HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30841
+#EXTINF:0,PT| TVCINE 1 SD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30840
+#EXTINF:0,PT| TVCINE 2 SD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30839
+#EXTINF:0,PT| TVCINE 3 SD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30838
+#EXTINF:0,PT| TVCINE 4 SD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30837
+#EXTINF:0,PT| TOROS TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30836
+#EXTINF:0,PT| ODISSEIA
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30835
+#EXTINF:0,PT| JIM JAM
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30834
+#EXTINF:0,PT| BABY TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30833
+#EXTINF:0,PT| DISCOVERY CHANNEL
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30832
+#EXTINF:0,PT| CACAVISION
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30831
+#EXTINF:0,PT| CBS REALITY
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30830
+#EXTINF:0,PT| CAZA Y PESCA
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30829
+#EXTINF:0,PT| ABOLA TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30828
+#EXTINF:0,PT| ARTV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/30827
+#EXTINF:0,PO| A&E HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2724
+#EXTINF:0,PO| AXN HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2726
+#EXTINF:0,PO| AXN Black
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2727
+#EXTINF:0,PO| AXN White
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2725
+#EXTINF:0,PO| AMC  HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2728
+#EXTINF:0,PO| SYFY HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2667
+#EXTINF:0,PO| RTP 1
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2685
+#EXTINF:0,PO| RTP 2
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2684
+#EXTINF:0,PO| RTP 3
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2683
+#EXTINF:0,PO| TVI 24
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2663
+#EXTINF:0,PO| RTP Africa
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2681
+#EXTINF:0,PO| RTP Acores
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2682
+#EXTINF:0,PO| RTP Madeira
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2680
+#EXTINF:0,PO| RTP Memoria
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2679
+#EXTINF:0,PO| TV Series
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2652
+#EXTINF:0,PO| TV Globo HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2654
+#EXTINF:0,PO| TV Cine Action HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2659
+#EXTINF:0,PO| TV Cine Emotion HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2658
+#EXTINF:0,PO| TV Cine Edition HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2657
+#EXTINF:0,PO| TV Cine TOP HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2656
+#EXTINF:0,PO| Fox HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2699
+#EXTINF:0,PO| Fox Movies
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2700
+#EXTINF:0,PO| Fox Life
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2701
+#EXTINF:0,PO| Fox Crime
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2702
+#EXTINF:0,PO| Fox Comedy
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2703
+#EXTINF:0,PO| Cine Mundo
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2730
+#EXTINF:0,PO| Sport TV 1 HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2673
+#EXTINF:0,PO| Sport TV 2 HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2672
+#EXTINF:0,PO| Sport TV 3 HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2671
+#EXTINF:0,PO| Sport TV 4
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2670
+#EXTINF:0,PO| Sport TV 5
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2669
+#EXTINF:0,PO| Sport TV plus
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2668
+#EXTINF:0,PO| Eurosport 1 HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2688
+#EXTINF:0,PO| Eurosport 2 HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2706
+#EXTINF:0,PO| Eleven Sports 1
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2645
+#EXTINF:0,PO| Eleven Sports 2
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2646
+#EXTINF:0,PO| Eleven Sports 3
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2647
+#EXTINF:0,PO| Eleven Sports 4
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2648
+#EXTINF:0,PO| Eleven Sports 5
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2649
+#EXTINF:0,PO| Eleven Sports 6
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2650
+#EXTINF:0,PO| PFC Internacional
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2655
+#EXTINF:0,PO| Cancao Nova
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2660
+#EXTINF:0,PO| TVI Reality
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2661
+#EXTINF:0,PO| TVI Ficcao
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2662
+#EXTINF:0,PO| TVE Internacional
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2664
+#EXTINF:0,PO| Travel Channel
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2665
+#EXTINF:0,PO| TLC Pan Regional
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2666
+#EXTINF:0,PO| Sporting TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2674
+#EXTINF:0,PO| SIC Radical
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2675
+#EXTINF:0,PO| SIC Noticias
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2676
+#EXTINF:0,PO| SIC Mulher
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2677
+#EXTINF:0,PO| SIC Caras
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2678
+#EXTINF:0,PO| Nickelodeon Iberia
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2686
+#EXTINF:0,PO| Mezzo HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2687
+#EXTINF:0,PO| Porto Canal
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2689
+#EXTINF:0,PO| PFC Internacional
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2690
+#EXTINF:0,PO| Fuel TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2698
+#EXTINF:0,PO| Historia
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2696
+#EXTINF:0,PO| Nat Geo HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2692
+#EXTINF:0,PO| Nat Geo Wild
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2691
+#EXTINF:0,PO| Discovery Showcase
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2710
+#EXTINF:0,PO| MTV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2693
+#EXTINF:0,PO| Motorvision TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2694
+#EXTINF:0,PO| MCM Pop
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2695
+#EXTINF:0,PO| Galicia TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2697
+#EXTINF:0,PO| Fashion TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2704
+#EXTINF:0,PO| E! Europe
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2705
+#EXTINF:0,PO| EuroNews
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2707
+#EXTINF:0,PO| Disney Junior
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2708
+#EXTINF:0,PO| Disney Channel
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2709
+#EXTINF:0,PO| CNBC Europe
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2711
+#EXTINF:0,PO| CM TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2712
+#EXTINF:0,PO| Canal Q
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2714
+#EXTINF:0,PO| Canal Panda
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2715
+#EXTINF:0,PO| Canal Nos
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2716
+#EXTINF:0,PO| Canal Hollywood
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2717
+#EXTINF:0,PO| Canal Cine Mundo
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2718
+#EXTINF:0,PO| BTV 1
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2719
+#EXTINF:0,PO| Bloomberg TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2720
+#EXTINF:0,PO| Biggs HD
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2721
+#EXTINF:0,PO| Benfica TV
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2722
+#EXTINF:0,PO| BBC Entertainment
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2723
+#EXTINF:0,PO| 24 Kitchen
+#EXTGRP:unsorted
+http://red.ipfox.org:8080/Karim2_534341/40036069/2651
+#EXTM3U
+#EXTINF:0,RO| TVR 1
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82326
+#EXTINF:0,RO| TVR 2
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82325
+#EXTINF:0,RO| TVR 3
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82324
+#EXTINF:0,RO| TVR HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82323
+#EXTINF:0,RO| ROMANIA TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82322
+#EXTINF:0,RO| ANTENA 1
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82321
+#EXTINF:0,RO| ANTENA 1 HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82320
+#EXTINF:0,RO| ANTENA 3
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82319
+#EXTINF:0,RO| ANTENA 3 HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82318
+#EXTINF:0,RO| ANTENA STARS
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82317
+#EXTINF:0,RO| ANTENA STARS HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82316
+#EXTINF:0,RO| PRO TV HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82315
+#EXTINF:0,RO| PRO TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82314
+#EXTINF:0,RO| PRO X
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82313
+#EXTINF:0,RO| PRO 2
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82312
+#EXTINF:0,RO| PRO 2 FHD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82311
+#EXTINF:0,RO| DIGI WORLD HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82310
+#EXTINF:0,RO| DIGI LIFE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82309
+#EXTINF:0,RO| DIGI 24 HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82307
+#EXTINF:0,RO| AXN WHITE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82306
+#EXTINF:0,RO| AXN ROMANIA
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82305
+#EXTINF:0,RO| AXN BLACK
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82304
+#EXTINF:0,RO| B1 TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82303
+#EXTINF:0,RO| DTX
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82302
+#EXTINF:0,RO| FAVORIT TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82301
+#EXTINF:0,RO| HAPPY CHANNEL HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82300
+#EXTINF:0,RO| HBO Romania
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82299
+#EXTINF:0,RO| HBO HD RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82298
+#EXTINF:0,RO| HBO2
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82297
+#EXTINF:0,RO| HBO 3 RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82296
+#EXTINF:0,RO| HBO 3
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82295
+#EXTINF:0,RO| HORA TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82294
+#EXTINF:0,RO| JIMJAM
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82293
+#EXTINF:0,RO| KANAL D
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82292
+#EXTINF:0,RO| KISS TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82291
+#EXTINF:0,RO| LOOK PLUS HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82290
+#EXTINF:0,RO| LOOKPLUS
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82289
+#EXTINF:0,RO| NATIONAL TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82288
+#EXTINF:0,RO| PRIMA TV RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82287
+#EXTINF:0,RO| REALITATEA TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82286
+#EXTINF:0,RO| TARAF
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82285
+#EXTINF:0,RO| TNT RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82284
+#EXTINF:0,RO| NGRO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82283
+#EXTINF:0,RO| NATIONAL 24
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82282
+#EXTINF:0,RO| FINE LIVING
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82281
+#EXTINF:0,RO| ETNO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82280
+#EXTINF:0,RO| DUNA HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82279
+#EXTINF:0,RO| DOCUBOX
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82278
+#EXTINF:0,RO| DIVA
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82277
+#EXTINF:0,RO| DAVINCI LEARNING
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82276
+#EXTINF:0,RO| TRAVEL CHANNEL HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82275
+#EXTINF:0,RO| TV PAPRIKA
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82274
+#EXTINF:0,RO| ZU TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82273
+#EXTINF:0,RO| U TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82272
+#EXTINF:0,RO| TV 1000
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82271
+#EXTINF:0,RO| TV 1000 HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82270
+#EXTINF:0,RO| SPERANTA TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82269
+#EXTINF:0,RO| TLC
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82268
+#EXTINF:0,RO| UTV HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82267
+#EXTINF:0,RO| CROMTEL
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82266
+#EXTINF:0,RO| SUNDANCE TV FHD [MULTI-SUB]
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82265
+#EXTINF:0,RO| BOOMERANG
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82263
+#EXTINF:0,RO| CARTOON
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82262
+#EXTINF:0,RO| DISNEY CHANNEL
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82260
+#EXTINF:0,RO| DISNEY JR
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82259
+#EXTINF:0,RO| NICKELODEON
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82258
+#EXTINF:0,RO| DISNEY RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82257
+#EXTINF:0,RO| MINIMAX
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82256
+#EXTINF:0,RO| CINEMAX 2
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82254
+#EXTINF:0,RO| FILMBOX PREMIUM
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82252
+#EXTINF:0,RO| FILMBOX EXTRA HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82251
+#EXTINF:0,RO| FILM NOW
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82249
+#EXTINF:0,RO| FILM CAFE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82248
+#EXTINF:0,RO| PRO GOLD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82247
+#EXTINF:0,RO| MEGAMAX
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82245
+#EXTINF:0,RO| CINEMARATON
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82244
+#EXTINF:0,RO| CBS REALITY
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82243
+#EXTINF:0,RO| BOLLYWOOD TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82242
+#EXTINF:0,RO| AMC
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82241
+#EXTINF:0,RO| AGRO TV
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82240
+#EXTINF:0,RO| NAT GEO GRAPHIC RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82238
+#EXTINF:0,RO| NAT GEO WILD HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82237
+#EXTINF:0,RO| NAT GEO WILD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82236
+#EXTINF:0,RO| NAT GEO GRAPHIC HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82235
+#EXTINF:0,RO| INVESTIGATION DISCOVERY
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82234
+#EXTINF:0,RO| DISCOVERY CHANNEL
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82233
+#EXTINF:0,RO| DISCOVERY HD SHOWCASE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82232
+#EXTINF:0,RO| DISCOVERY RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82231
+#EXTINF:0,RO| DISCOVERY SCIENCE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82230
+#EXTINF:0,RO| ANIMAL PLANET HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82229
+#EXTINF:0,RO| ANIMAL PLANET
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82228
+#EXTINF:0,RO| DIGI ANIMAL WORLD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82227
+#EXTINF:0,RO| VIASAT NATURE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82226
+#EXTINF:0,RO| VIASAT HISTORY
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82225
+#EXTINF:0,RO| VIASAT EXPLORER
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82224
+#EXTINF:0,RO| VIASAT EXPLORE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82223
+#EXTINF:0,RO| HISTORY
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82222
+#EXTINF:0,RO| HISTORY HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82221
+#EXTINF:0,RO| TRAVEL CHANNEL
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82220
+#EXTINF:0,RO| FISHING & HUNTING
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82219
+#EXTINF:0,RO| MUSIC CHANNEL
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82217
+#EXTINF:0,RO| MTV ROCKS
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82216
+#EXTINF:0,RO| MTV HITS
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82215
+#EXTINF:0,RO| MTV EUROPE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82214
+#EXTINF:0,RO| MTV DANCE
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82213
+#EXTINF:0,RO| MOOZ DANCE HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82212
+#EXTINF:0,RO| VH1 CLASSIC
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82211
+#EXTINF:0,RO| DIGI SPORT 1 HD RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82209
+#EXTINF:0,RO| DIGI SPORT 1
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82208
+#EXTINF:0,RO| DIGI SPORT 2 HD RO
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82207
+#EXTINF:0,RO| DIGI SPORT 2
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82206
+#EXTINF:0,RO| DIGI SPORT 3
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82205
+#EXTINF:0,RO| DIGI SPORT 4
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82204
+#EXTINF:0,RO| EXTREME SPORTS CHANNEL
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82203
+#EXTINF:0,RO| EUROSPORT 1 HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82202
+#EXTINF:0,RO| EUROSPORT 2 HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82201
+#EXTINF:0,RO| EUROSPORT 2
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82200
+#EXTINF:0,RO| PRO TV INTERNATIONAL
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82199
+#EXTINF:0,RO| AUTO MOTOR SPORT
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82198
+#EXTINF:0,RO| FIGHTBOX
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82197
+#EXTINF:0,RO| LOOK SPORT
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82196
+#EXTINF:0,RO| LOOK SPORT HD
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82195
+#EXTINF:0,RO| TELEKOM SPORT 1
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82194
+#EXTINF:0,RO| TELEKOM SPORT 2
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82193
+#EXTINF:0,RO| TELEKOM SPORT 3
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82192
+#EXTINF:0,RO| TELEKOM SPORT 4
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82191
+#EXTINF:0,RO| TELEKOM SPORT 5
+#EXTGRP:unsorted
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82190
+#EXTM3U
+#EXTINF:0,BRAZIL
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:0,98 Live
+#EXTGRP:unsorted
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+#EXTINF:0,AgroBrasil TV
+#EXTGRP:unsorted
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0,Band - RBA TV (PA)
+#EXTGRP:unsorted
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:0,Brasil Oeste (MT)
+#EXTGRP:unsorted
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
+#EXTINF:0,Canal 29
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+#EXTINF:0,Canção Nova
+#EXTGRP:unsorted
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+#EXTINF:0,CBN RJ
+#EXTGRP:unsorted
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:0,CBN SP
+#EXTGRP:unsorted
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0,CBTV Now
+#EXTGRP:unsorted
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0,Central TV
+#EXTGRP:unsorted
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:0,Cultura Pará
+#EXTGRP:unsorted
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:0,FonteTV (GO)
+#EXTGRP:unsorted
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:0,Gospel Cartoon
+#EXTGRP:unsorted
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+#EXTINF:0,Gospel Movie TV
+#EXTGRP:unsorted
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0,IMPD TV
+#EXTGRP:unsorted
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:0,IURD TV
+#EXTGRP:unsorted
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:0,KRÓNOS MOVIE
+#EXTGRP:unsorted
+https://livefocamundo.com:8081/8588/index.m3u8
+#EXTINF:0,Latina SAT
+#EXTGRP:unsorted
+https://livefocamundo.com:8081/8470/index.m3u8
+#EXTINF:0,Mundo TV
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:0,Novo Tempo
+#EXTGRP:unsorted
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0,Paraná Turismo
+#EXTGRP:unsorted
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0,Record News - TV Guará (MA)
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:0,RecordTV Manaus
+#EXTGRP:unsorted
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:0,Rede Brasil (SP)
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:0,Rede Brasil - TV Marajoara (PA)
+#EXTGRP:unsorted
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:0,Rede Gospel
+#EXTGRP:unsorted
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:0,Rede Metrópole
+#EXTGRP:unsorted
+http://177.130.81.30/hls/metropole.m3u8
+#EXTINF:0,Rede Minas
+#EXTGRP:unsorted
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:0,Rede Premium
+#EXTGRP:unsorted
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
+#EXTINF:0,RedeTV! Tocantins
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:0,RedeTV! TV Arapuan HD (PB)
+#EXTGRP:unsorted
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:0,Retrô Cartoon
+#EXTGRP:unsorted
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:0,SBT - TV Cidade Verde - (PI)
+#EXTGRP:unsorted
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+#EXTINF:0,SBT - TV Jornal (PE)
+#EXTGRP:unsorted
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0,SBT - TV Serra Dourada - (GO)
+#EXTGRP:unsorted
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:0,SBT Tailândia (PA)
+#EXTGRP:unsorted
+https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
+#EXTINF:0,TopTV Paraná
+#EXTGRP:unsorted
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:0,TV Aberta SP
+#EXTGRP:unsorted
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:0,TV Aracati
+#EXTGRP:unsorted
+https://livefocamundo.com:8081/8148/index.m3u8
+#EXTINF:0,TV Birigui
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+#EXTINF:0,TV Brusque (SC)
+#EXTGRP:unsorted
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:0,TV Candidés
+#EXTGRP:unsorted
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:0,TV COM BRASIL
+#EXTGRP:unsorted
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:0,TV Cultura - TV Futuro (RJ)
+#EXTGRP:unsorted
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0,TV Câmara
+#EXTGRP:unsorted
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0,TV Destak
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:0,TV Diário do Sertão
+#EXTGRP:unsorted
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:0,TV Escola
+#EXTGRP:unsorted
+https://video-rvd-df-1.rnp.br/live/ocp(t(FkOckp8oHII)
+#EXTINF:0,TV Evangelizar
+#EXTGRP:unsorted
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:0,TV Liberdade
+#EXTGRP:unsorted
+https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8
+#EXTINF:0,TV Liberdade
+#EXTGRP:unsorted
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:0,TV Manchete
+#EXTGRP:unsorted
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:0,TV MAX
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:0,TV Metrópole
+#EXTGRP:unsorted
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:0,TV Mon
+#EXTGRP:unsorted
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:0,TV Pai Eterno
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+#EXTINF:0,TV Pampa - RedeTV! RS
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:0,TV Pantanal MS
+#EXTGRP:unsorted
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:0,TV Santa Cecília (SP)
+#EXTGRP:unsorted
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+#EXTINF:0,TV Sjid (BA)
+#EXTGRP:unsorted
+https://livefocamundo.com:8081/8650/index.m3u8
+#EXTINF:0,TV União (DF)
+#EXTGRP:unsorted
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:0,TV Verdes Campos SAT
+#EXTGRP:unsorted
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:0,TV Zoom
+#EXTGRP:unsorted
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:0,TV8 Brasil
+#EXTGRP:unsorted
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:0,TVE Bahia
+#EXTGRP:unsorted
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:0,TVE RS
+#EXTGRP:unsorted
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0,TVídeoNews
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:0,Via Morena
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:0,YEEAAH TV
+#EXTGRP:unsorted
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:0,PLUTO
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1&deviceId=5fa97a8a75cc210007c9041d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,A vida moderna de Rocko
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,As  Pistas de Blue
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,FailArmy
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=502&deviceId=5f5141c1605ddf000748eb1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,MTV Are you the One?
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=159&deviceId=5f6108d8cc331900075e98e4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,MTV Pluto TV
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=157&deviceId=5f1212fb81e85c00077ae9ef&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Naruto
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Nick Clássico
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Nick Jr. Club
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Os Três Patetas
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,People are Awesome
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=173&deviceId=5f515d080e738d000739e19c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Anime
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Cine Comédia
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Cine Drama
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Cine Família
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Cine Sucessos
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Cine Terror
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Fashionbox
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Filmes Ação
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Investigação
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Junior
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Kids
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Natureza
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Retrô
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Séries
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Pluto TV Star Trek
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5f99ac4fded33000078f29ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Porta dos Fundos
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,The Pet Collective
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,Turma da Mônica
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
